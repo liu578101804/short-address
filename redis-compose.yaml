@@ -1,0 +1,16 @@
+version: '2.0'
+
+networks:
+  net_basic:
+
+services:
+
+  redis:
+    container_name: redis
+    image: redis
+    ports:
+      - 6379:6379
+#    volumes:
+#      - ./data:/data
+    networks:
+      - net_basic

@@ -1,0 +1,95 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "AjnU35mnD8yMT90+kersJZeA0ak=",
+			"path": "github.com/go-redis/redis",
+			"revision": "c5c4ad6a4cae24f3867af1a0513709fc944a87f3",
+			"revisionTime": "2019-08-13T14:24:31Z",
+			"version": "v6.15.4",
+			"versionExact": "v6.15.4"
+		},
+		{
+			"checksumSHA1": "pPBUPs5RJe7jbz3rXtpZe99k3jo=",
+			"path": "github.com/go-redis/redis/internal",
+			"revision": "c5c4ad6a4cae24f3867af1a0513709fc944a87f3",
+			"revisionTime": "2019-08-13T14:24:31Z",
+			"version": "v6.15.4",
+			"versionExact": "v6.15.4"
+		},
+		{
+			"checksumSHA1": "GQZsUVg/+6UpQAYpc4luMvMutSI=",
+			"path": "github.com/go-redis/redis/internal/consistenthash",
+			"revision": "c5c4ad6a4cae24f3867af1a0513709fc944a87f3",
+			"revisionTime": "2019-08-13T14:24:31Z",
+			"version": "v6.15.4",
+			"versionExact": "v6.15.4"
+		},
+		{
+			"checksumSHA1": "l66eTZiJqueypc56HXCakGDm784=",
+			"path": "github.com/go-redis/redis/internal/hashtag",
+			"revision": "c5c4ad6a4cae24f3867af1a0513709fc944a87f3",
+			"revisionTime": "2019-08-13T14:24:31Z",
+			"version": "v6.15.4",
+			"versionExact": "v6.15.4"
+		},
+		{
+			"checksumSHA1": "OHj6H6AyvnbP1rYtWjO4thbD7Ug=",
+			"path": "github.com/go-redis/redis/internal/pool",
+			"revision": "c5c4ad6a4cae24f3867af1a0513709fc944a87f3",
+			"revisionTime": "2019-08-13T14:24:31Z",
+			"version": "v6.15.4",
+			"versionExact": "v6.15.4"
+		},
+		{
+			"checksumSHA1": "zCo0t+gRBbctwyIpkDLrqRFtXew=",
+			"path": "github.com/go-redis/redis/internal/proto",
+			"revision": "c5c4ad6a4cae24f3867af1a0513709fc944a87f3",
+			"revisionTime": "2019-08-13T14:24:31Z",
+			"version": "v6.15.4",
+			"versionExact": "v6.15.4"
+		},
+		{
+			"checksumSHA1": "1PH2NoAB/u3IZmLYyCrIbOzqLZ4=",
+			"path": "github.com/go-redis/redis/internal/util",
+			"revision": "c5c4ad6a4cae24f3867af1a0513709fc944a87f3",
+			"revisionTime": "2019-08-13T14:24:31Z",
+			"version": "v6.15.4",
+			"versionExact": "v6.15.4"
+		},
+		{
+			"checksumSHA1": "2Iy16w6c+4oMD8TtobbO0qsCrDo=",
+			"path": "github.com/gorilla/mux",
+			"revision": "00bdffe0f3c77e27d2cf6f5c70232a2d3e4d9c15",
+			"revisionTime": "2019-06-30T04:17:52Z",
+			"version": "v1.7.3",
+			"versionExact": "v1.7.3"
+		},
+		{
+			"checksumSHA1": "OBvAHqWjdI4NQVAqTkcQAdTuCFY=",
+			"path": "github.com/justinas/alice",
+			"revision": "03f45bd4b7dad4734bc4620e46a35789349abb20",
+			"revisionTime": "2017-10-23T06:44:55Z"
+		},
+		{
+			"checksumSHA1": "5ItWLIoJpwy91Z3QNdruSU5hATo=",
+			"path": "github.com/mattheath/base62",
+			"revision": "b80cdc656a7a61702f293555d54777d6ff617eb7",
+			"revisionTime": "2015-04-08T09:36:26Z"
+		},
+		{
+			"checksumSHA1": "tecPenwUiv3ST5SXOzmM4MqBTUU=",
+			"path": "github.com/speps/go-hashids",
+			"revision": "6ba254bc2e328fdc3fca46bfbccea4ab8052755f",
+			"revisionTime": "2018-10-22T18:56:52Z"
+		},
+		{
+			"checksumSHA1": "T1SRb2qBbpPfAJ3L6teLZR2H+Ck=",
+			"path": "gopkg.in/validator.v2",
+			"revision": "07057546915ea215eed2a7a65a0db83ddecbdef8",
+			"revisionTime": "2019-08-26T20:31:58Z"
+		}
+	],
+	"rootPath": "github.com/liu578101804/short-address"
+}
